@@ -2,9 +2,11 @@
 /* HEADER CSS */
 
 .header {
+	color: #d6be77 !important;
 	text-align: center;
 	margin: 0;
 	z-index: 10;
+	font-size: 75px;
 }
 
 .header-wrapper {
