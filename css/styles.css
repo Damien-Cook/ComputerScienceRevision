@@ -7,11 +7,11 @@ header {
 }
 
 .header {
-	color: blue !important;
+	color: #56EBE8 !important;
 	text-align: center;
 	margin: 0;
 	z-index: 10;
-	font-size: 75px;
+	font-size: 200px;
 }
 
 .header-wrapper {
