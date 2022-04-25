@@ -20,7 +20,7 @@
 }
 
 .header .logo-wrapper {
-	background: white;
+	background: #E2E2E2;
 	height: 140px;
 	transition: height 1s ease;
 }
