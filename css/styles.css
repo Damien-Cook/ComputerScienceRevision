@@ -1004,3 +1004,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
 .latest {
 	font-size: 70px;
 }
+
+.bumper {
+	background: black;
+}
