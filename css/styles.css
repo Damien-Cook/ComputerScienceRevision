@@ -781,17 +781,17 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
 	}
 
 	li a:hover:not(.active) {
-		background-color: black;
+		background-color: orange;
 	}
 
 	a:hover {
-		color: #9e9e9e;
+		color: yellow;
 		text-decoration: none;
 	}
 
 	nav li a.active {
-		color: white;
-		background-color: #3f3f3f;
+		color: blue;
+		background-color: green;
 	}
 }
 
