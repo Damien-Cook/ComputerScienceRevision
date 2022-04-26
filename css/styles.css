@@ -21,7 +21,7 @@
 }
 
 .header .logo-wrapper {
-	background: #E2E2E2;
+	background: black;
 	height: 140px;
 	transition: height 1s ease;
 }
