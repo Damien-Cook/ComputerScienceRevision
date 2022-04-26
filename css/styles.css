@@ -1003,6 +1003,6 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
 .csheader {
 	font-size: 50px;
 	color: black;
-	font-align: centre;
+	text-align: center;
 	text-decoration: underline;
 }
