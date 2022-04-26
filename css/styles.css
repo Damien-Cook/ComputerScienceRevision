@@ -1,7 +1,7 @@
 /* HEADER CSS */
 
 .header {
-	color: white !important;
+	color: #E9E9E9 !important;
 	text-align: center;
 	margin: 0;
 	z-index: 10;
@@ -21,7 +21,7 @@
 }
 
 .header .logo-wrapper {
-	background: black;
+	background: #111111;
 	height: 140px;
 	transition: height 1s ease;
 }
