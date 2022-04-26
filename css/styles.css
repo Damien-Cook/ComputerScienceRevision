@@ -282,7 +282,7 @@ a:visited {
 }
   
 a:hover {
-	color: white;
+	color: #636363;
 	background-color: transparent;
 	text-decoration: underline;
 }
@@ -777,21 +777,16 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
 	}
     
 	nav li a:hover {
-		background-color: black ;
+		background-color: white ;
 	}
 
 	li a:hover:not(.active) {
-		background-color: orange;
-	}
-
-	a:hover {
-		color: yellow;
-		text-decoration: none;
+		background-color: #636363;
 	}
 
 	nav li a.active {
-		color: blue;
-		background-color: green;
+		color: white;
+		background-color: black;
 	}
 }
 
